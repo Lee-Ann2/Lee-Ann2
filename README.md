@@ -61,7 +61,7 @@ UI/UX: Figma (wireframing → high-fidelity prototypes)
 
 -Email: kmfenyana2@gmail.com
 
--Portfolio: ________
+-Portfolio: https://lee-ann2.github.io/portfolio/
 
 -LinkedIn: _____
 
