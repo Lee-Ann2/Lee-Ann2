@@ -63,7 +63,7 @@ UI/UX: Figma (wireframing → high-fidelity prototypes)
 
 -Portfolio: https://lee-ann2.github.io/portfolio/
 
--LinkedIn: _____
+-LinkedIn: https://www.linkedin.com/in/khazimla-mfenyana-6912a5305
 
 
 ##Featured Projects
